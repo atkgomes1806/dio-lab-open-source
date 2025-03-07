@@ -1,27 +1,21 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# 👋 Olá, eu sou Arthur Gomes Soares  
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+## 📌 Sobre mim  
+Sou formado em **Sistemas de Informação**, onde estudei linguagens como **C e Java**, além de disciplinas como:  
+- Lógica de Programação  
+- Projetos de Software  
+- Redes de Computadores  
+- Segurança da Informação  
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+Atuei na área de **TI com redes e sistemas operacionais**, mas segui um caminho diferente. Agora estou **retornando à tecnologia**, buscando aprendizado e novas oportunidades.  
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## 💡 Interesses Atuais  
+🚀 Inteligência Artificial e Machine Learning  
+📜 Engenharia de Prompt  
+📊 Análise de Dados e Python  
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+## 🔗 Conecte-se comigo  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gomes-soares-4627a03b/)  
+
+## 📖 Citação Favorita  
+*"A última Coisa Que Eu Pretendo Fazer na Vida é Morrer"* – Ciro Pelicano  
